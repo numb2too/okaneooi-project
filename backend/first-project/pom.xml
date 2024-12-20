@@ -22,9 +22,9 @@
 		<developer/>
 	</developers>
 	<modules>
-		<module>oa-sys</module>
 		<module>flow-sys</module>
 		<module>auth-sys</module>
+		<module>oa-sys</module>
 	</modules>
 	<scm>
 		<connection/>
