@@ -11,6 +11,7 @@
 	<groupId>com.okaneooi</groupId>
 	<artifactId>first-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 	<name>first-project</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
@@ -20,6 +21,11 @@
 	<developers>
 		<developer/>
 	</developers>
+	<modules>
+		<module>oa-sys</module>
+		<module>flow-sys</module>
+		<module>auth-sys</module>
+	</modules>
 	<scm>
 		<connection/>
 		<developerConnection/>
